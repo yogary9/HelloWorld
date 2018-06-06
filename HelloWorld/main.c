@@ -8,8 +8,8 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main(void) {
     // insert code here...
-    printf("Hello, World!\n");
+    printf("Hello, World! Edits in TestBranch\n");
     return 0;
 }
